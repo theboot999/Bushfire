@@ -1,4 +1,0 @@
-so
-
-overlap on rectangles is a problem
-rectangles turning into wierd sizes
