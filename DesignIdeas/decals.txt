@@ -1,0 +1,7 @@
+Road decals.  they will be as a layer
+
+i think we need an object reference somehow
+So the base tile will have the properties of fuel and height etc etc.
+however.. 
+
+that is simply calculated of what objects are on there and the base layer.  So adding an object will increase the fuel, and set the height of the tile

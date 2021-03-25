@@ -1,0 +1,21 @@
+Idea
+Town names
+
+Just save them to a file probably and read them
+
+then
+
+we can have a town list?
+
+This is basically the town point sites list.  we keep that list with a town point in it
+
+because then
+
+
+we can itterate through that list. the first point on that list that is in our screen bounds will be out town displayed at the top
+we can also write the town names on our mini map in white
+however they probably shouldnt be baked into the texture. but instead drawn in, and they can be drawn using the ui scale
+
+so the towns will have a point of world position, and also a vector of minimap position.
+
+so drawing in the minimap class we can write the vector text

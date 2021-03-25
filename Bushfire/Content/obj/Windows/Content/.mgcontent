@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>HiDef</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Cursors/ArrowDiagonal.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Cursors/ArrowHorizontal.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Cursors/ArrowVertical.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Cursors/HandClose.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Cursors/HandFinger.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Cursors/Pointer.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Effects/blur.fx</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Effects/Lighting.fx</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Effects/Shadow.fx</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Effects/ShadowInverter.fx</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Effects/soften.fx</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita10.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita12.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita14.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita16.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita18.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita20.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita22.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita24.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita26.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita28.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita30.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita6.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/Anita8.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne10.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne12.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne13.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne14.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne16.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne18.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne20.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne22.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne24.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne26.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne28.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne30.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne6.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/CarterOne8.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans10.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans12.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans14.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans16.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans16Bold.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans18.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans18Bold.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans20.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans20Bold.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans22.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans22Bold.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans24.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans24Bold.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans26.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans28.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans30.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans38.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans40Bold.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans6.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Fonts/OpenSans8.spritefont</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/SoundsEffects/Effect1.wav</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/SoundsEffects/Effect2.wav</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/SoundsEffects/Effect3.wav</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/SoundsEffects/Shot1.wav</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/SoundsEffects/Siren1.mp3</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/Game/Ground.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/Game/Lights.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/Game/MapObjects.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/Game/Particles.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/Game/Shadows.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/Game/Vehicles.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/Game/WorldUI.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/UI/Background.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/UI/Buttons.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/UI/Editor.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/UI/Loading.png</File>
+    <File>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Textures/UI/TextureColours.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

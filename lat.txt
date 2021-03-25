@@ -1,0 +1,9 @@
+latest plan
+
+link to the actual object. one main square. the rest child squares
+
+the object as a whole has a west and east shadow list
+
+so each object only needs one main copy. evertyhgin else is a refernce
+
+when we place the object wej ust adjust the tiles stats

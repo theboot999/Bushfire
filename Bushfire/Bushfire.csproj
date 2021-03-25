@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63466F35-37E6-4F3D-9163-1B2901384E90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BushFire</RootNamespace>
+    <AssemblyName>BushFire</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Editor\Containers\DrivingPicker.cs" />
+    <Compile Include="Editor\Containers\EditorView.cs" />
+    <Compile Include="Editor\Containers\General.cs" />
+    <Compile Include="Editor\Containers\BuildingPicker.cs" />
+    <Compile Include="Editor\Containers\LightPicker.cs" />
+    <Compile Include="Editor\Containers\ObjectPicker.cs" />
+    <Compile Include="Editor\Containers\ShadowPicker.cs" />
+    <Compile Include="Engine\Controllers\PieceController.cs" />
+    <Compile Include="Editor\Screens\BuildingScreen.cs" />
+    <Compile Include="Editor\Tech\Border.cs" />
+    <Compile Include="Editor\Tech\BorderMap.cs" />
+    <Compile Include="Editor\Tech\Serialize\ColorXML.cs" />
+    <Compile Include="Editor\Tech\Serialize\DrivingSpot.cs" />
+    <Compile Include="Editor\Tech\EditingParams.cs" />
+    <Compile Include="Engine\ContentStorage\GameSprites.cs" />
+    <Compile Include="Engine\ContentStorage\Lights.cs" />
+    <Compile Include="Engine\Controllers\RandomController.cs" />
+    <Compile Include="Engine\Light.cs" />
+    <Compile Include="Engine\MessageControl.cs" />
+    <Compile Include="Engine\Test.cs" />
+    <Compile Include="Engine\UIControls\ButtonMenuLargeGrey.cs" />
+    <Compile Include="Engine\UIControls\ButtonUiToggle.cs" />
+    <Compile Include="Engine\UIControls\ComboCycleGamePanel.cs" />
+    <Compile Include="Engine\UIControls\GameViewBox.cs" />
+    <Compile Include="Engine\UIControls\Internal\ButtonCycleGame.cs" />
+    <Compile Include="Engine\UIControls\Internal\ButtonHeadingText.cs" />
+    <Compile Include="Engine\UIControls\Internal\Visual.cs" />
+    <Compile Include="Engine\UIControls\Message.cs" />
+    <Compile Include="Engine\Controllers\GameController.cs" />
+    <Compile Include="Engine\Controllers\MapObjectController.cs" />
+    <Compile Include="Engine\Controllers\TileLogisticsController.cs" />
+    <Compile Include="Game\Map\FireStuff\Fire.cs" />
+    <Compile Include="Game\Map\FireStuff\FullyBurnt.cs" />
+    <Compile Include="Game\Map\FireStuff\MiniFire.cs" />
+    <Compile Include="Game\Map\FireStuff\SmokeParticle.cs" />
+    <Compile Include="Game\Map\MapObjects\MapObjectContent.cs" />
+    <Compile Include="Game\Map\MapObjects\MapObjectContentMultiple.cs" />
+    <Compile Include="Game\Map\MapObjects\MapObjectContentSingle.cs" />
+    <Compile Include="Game\Map\MapObjects\StopLight.cs" />
+    <Compile Include="Game\Map\MapObjects\StreetLight.cs" />
+    <Compile Include="Game\Map\MapObjects\Building.cs" />
+    <Compile Include="Editor\Tech\Serialize\EditorShadow.cs" />
+    <Compile Include="Engine\Files\BuildingsBinary.cs" />
+    <Compile Include="Engine\UIControls\Internal\ListBoxCamera.cs" />
+    <Compile Include="Engine\UIControls\Internal\ListBoxObject.cs" />
+    <Compile Include="Engine\UIControls\Internal\ListBoxScrollV.cs" />
+    <Compile Include="Engine\UIControls\ListBox.cs" />
+    <Compile Include="Game\Map\MapObjects\Tree.cs" />
+    <Compile Include="Game\Map\Town.cs" />
+    <Compile Include="Game\Map\UI\SelectedMovingLine.cs" />
+    <Compile Include="Game\Map\UI\MoveMarker.cs" />
+    <Compile Include="Game\Map\UI\WorldThing.cs" />
+    <Compile Include="Game\Map\WorldFire.cs" />
+    <Compile Include="Game\Map\WorldVehicles.cs" />
+    <Compile Include="Game\Screens\Containers\HelpInformation.cs" />
+    <Compile Include="Game\Screens\Containers\HelpKeyPressInfo.cs" />
+    <Compile Include="Game\Screens\Containers\InMenu\AudioInGame.cs" />
+    <Compile Include="Game\Screens\Containers\InMenu\ControlsInGame.cs" />
+    <Compile Include="Game\Screens\Containers\InMenu\MenuBarInGame.cs" />
+    <Compile Include="Game\Screens\Containers\InMenu\VideoInGame.cs" />
+    <Compile Include="Game\Screens\Containers\IntersectionPanel.cs" />
+    <Compile Include="Game\Screens\Containers\MiniViewToggle.cs" />
+    <Compile Include="Game\Screens\Containers\TopBar.cs" />
+    <Compile Include="Game\Screens\Containers\TownPanel.cs" />
+    <Compile Include="Game\Screens\Containers\TownPanelViewToggle.cs" />
+    <Compile Include="Game\Screens\Containers\VehiclePanel.cs" />
+    <Compile Include="Game\Screens\MapObjectsDraw.cs" />
+    <Compile Include="Game\Tech\AStarNode.cs" />
+    <Compile Include="Game\Tech\AStarOffRoad.cs" />
+    <Compile Include="Game\Tech\AStarOnRoad.cs" />
+    <Compile Include="Game\Tech\BoundingBox.cs" />
+    <Compile Include="Game\Tech\DrawPoints.cs" />
+    <Compile Include="Game\Map\Intersection.cs" />
+    <Compile Include="Game\Map\MapObject.cs" />
+    <Compile Include="Game\Map\MapObjectComponents\Piece.cs" />
+    <Compile Include="Editor\Tech\CompressedBuilding.cs" />
+    <Compile Include="Game\Map\MapObjectComponents\Shadow.cs" />
+    <Compile Include="Editor\Tech\Spot.cs" />
+    <Compile Include="Engine\Controllers\ShadowSpriteController.cs" />
+    <Compile Include="Engine\UIControls\Abstract\ComboTextBox.cs" />
+    <Compile Include="Engine\UIControls\ComboEditorCycleNextTo.cs" />
+    <Compile Include="Engine\UIControls\ComboEditorCycleNoLabel.cs" />
+    <Compile Include="Engine\UIControls\ComboMenuTextBox.cs" />
+    <Compile Include="Engine\UIControls\Internal\ButtonHeadingAction.cs" />
+    <Compile Include="Engine\UIControls\PictureBox.cs" />
+    <Compile Include="Engine\UIControls\TextBox.cs" />
+    <Compile Include="Game\Tech\AngleStuff.cs" />
+    <Compile Include="Game\Map\MapObjectComponents\Layer.cs" />
+    <Compile Include="Game\Map\MiniMapCell.cs" />
+    <Compile Include="Game\Screens\Containers\GameView.cs" />
+    <Compile Include="Game\Screens\Containers\MiniView.cs" />
+    <Compile Include="Game\Screens\GameScreen.cs" />
+    <Compile Include="Game\Tech\BitMask.cs" />
+    <Compile Include="Engine\Controllers\GroundLayerController.cs" />
+    <Compile Include="Game\Map\Tile.cs" />
+    <Compile Include="Game\Map\World.cs" />
+    <Compile Include="Engine\Camera.cs" />
+    <Compile Include="Engine\ContentStorage\Cursors.cs" />
+    <Compile Include="Engine\ContentStorage\Effects.cs" />
+    <Compile Include="Engine\ContentStorage\PrebuiltSprites.cs" />
+    <Compile Include="Engine\Controllers\ScreenController.cs" />
+    <Compile Include="Engine\Controllers\AudioManager.cs" />
+    <Compile Include="Engine\Controllers\DisplayController.cs" />
+    <Compile Include="Engine\Enums.cs" />
+    <Compile Include="Engine\ContentStorage\Fonts.cs" />
+    <Compile Include="Engine\Files\Data.cs" />
+    <Compile Include="Engine\Files\FileLoad.cs" />
+    <Compile Include="Engine\Files\FileSave.cs" />
+    <Compile Include="Engine\Files\SettingsXML.cs" />
+    <Compile Include="Engine\Input.cs" />
+    <Compile Include="Engine\ContentStorage\Music.cs" />
+    <Compile Include="Engine\Screen.cs" />
+    <Compile Include="Engine\Controllers\EngineController.cs" />
+    <Compile Include="Engine\Sound.cs" />
+    <Compile Include="Engine\ContentStorage\SoundEffects.cs" />
+    <Compile Include="Engine\Controllers\GraphicsManager.cs" />
+    <Compile Include="Engine\ContentStorage\Textures.cs" />
+    <Compile Include="Engine\Sprite.cs" />
+    <Compile Include="Engine\UIControls\Abstract\ComboCycle.cs" />
+    <Compile Include="Engine\UIControls\Abstract\ComboButton.cs" />
+    <Compile Include="Engine\UIControls\Box.cs" />
+    <Compile Include="Engine\UIControls\ButtonMenu.cs" />
+    <Compile Include="Engine\UIControls\ComboMenuCycle.cs" />
+    <Compile Include="Engine\UIControls\Internal\ContainerScrollH.cs" />
+    <Compile Include="Engine\UIControls\Internal\ContainerScrollV.cs" />
+    <Compile Include="Engine\UIControls\BackgroundMenu.cs" />
+    <Compile Include="Engine\UIControls\Internal\ButtonCycleMenu.cs" />
+    <Compile Include="Engine\UIControls\ButtonBlueLarge.cs" />
+    <Compile Include="Engine\UIControls\ButtonBlueSmall.cs" />
+    <Compile Include="Engine\UIControls\Internal\ButtonHeadingClose.cs" />
+    <Compile Include="Engine\UIControls\Internal\ButtonHeadingPin.cs" />
+    <Compile Include="Engine\UIControls\ButtonMenuLarge.cs" />
+    <Compile Include="Engine\UIControls\Internal\CycleObject.cs" />
+    <Compile Include="Engine\UIControls\Label.cs" />
+    <Compile Include="Engine\UIControls\ComboMenuButton.cs" />
+    <Compile Include="Engine\Controllers\WorldController.cs" />
+    <Compile Include="Game\Map\WorldMiniMap.cs" />
+    <Compile Include="Game\Tech\DrivingNode.cs" />
+    <Compile Include="Game\Tech\Intersects.cs" />
+    <Compile Include="Game\Tech\Jobs\FindWater.cs" />
+    <Compile Include="Game\Tech\Jobs\Job.cs" />
+    <Compile Include="Game\Tech\Jobs\Pathfinding.cs" />
+    <Compile Include="Game\Tech\Jobs\Reusables.cs" />
+    <Compile Include="Game\Tech\JobWorker.cs" />
+    <Compile Include="Game\Tech\MapLabel.cs" />
+    <Compile Include="Game\Tech\Syncing.cs" />
+    <Compile Include="Game\Tech\ThreadedFireSpread.cs" />
+    <Compile Include="Game\Tech\TileLogistic.cs" />
+    <Compile Include="Game\Vehicles\Actions\VAction.cs" />
+    <Compile Include="Game\Vehicles\Attachments\Attachment.cs" />
+    <Compile Include="Game\Vehicles\Attachments\BrakeLights.cs" />
+    <Compile Include="Game\Vehicles\Attachments\EmergencyLights.cs" />
+    <Compile Include="Game\Vehicles\Attachments\NormalBeams.cs" />
+    <Compile Include="Game\Vehicles\Attachments\IndicatorLights.cs" />
+    <Compile Include="Game\Vehicles\Attachments\TailLights.cs" />
+    <Compile Include="Game\Vehicles\Location.cs" />
+    <Compile Include="Game\Vehicles\Actions\MovementAction.cs" />
+    <Compile Include="Game\Vehicles\Vehicle.cs" />
+    <Compile Include="Game\Vehicles\VehicleParameters.cs" />
+    <Compile Include="Game\Vehicles\VehicleSpecific.cs" />
+    <Compile Include="Game\Vehicles\WaypointControl.cs" />
+    <Compile Include="MapGeneration\Containers\LoadingInfo.cs" />
+    <Compile Include="MapGeneration\Generation\AddingTrees.cs" />
+    <Compile Include="MapGeneration\Generation\LandMass.cs" />
+    <Compile Include="MapGeneration\Generation\LandSmoothing.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoads.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\AddingStreetLights.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\CreatingIntersections.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\AddingRoadTiles.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\AddingTownBuildings.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\ClearingRoadErrors.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\ClearingShrunkPlotErrors.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\ConnectingTowns.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\BuildingTownRoads.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\ExpandShrunkWorld.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\ExpandShrunkPlot.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\LoadingTownBuildings.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\ModifyingIntersectionRoadId.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\ShrunkWorldBuilder.cs" />
+    <Compile Include="MapGeneration\Generation\TownsAndRoadStuff\TownSitesBuilder.cs" />
+    <Compile Include="MapGeneration\Tech\AStarRoadBuilding.cs" />
+    <Compile Include="MapGeneration\Tech\AStarRoadBuildingNew.cs" />
+    <Compile Include="MapGeneration\Tech\CheckNode.cs" />
+    <Compile Include="MapGeneration\Tech\ConnectingPoint.cs" />
+    <Compile Include="MapGeneration\Tech\PerlinNoise.cs" />
+    <Compile Include="MapGeneration\Tech\Plot.cs" />
+    <Compile Include="MapGeneration\Tech\ShrunkNode.cs" />
+    <Compile Include="MapGeneration\Tech\ShrunkPlot.cs" />
+    <Compile Include="Menu\Containers\BuildingEditor.cs" />
+    <Compile Include="Engine\UIControls\Abstract\Button.cs" />
+    <Compile Include="Engine\UIControls\ButtonBlueMedium.cs" />
+    <Compile Include="Engine\UIControls\Internal\ContainerBorder.cs" />
+    <Compile Include="Engine\UIControls\Abstract\Container.cs" />
+    <Compile Include="Engine\UIControls\Internal\ContainerHeading.cs" />
+    <Compile Include="Engine\UIControls\Internal\ContainerCamera.cs" />
+    <Compile Include="Engine\UIControls\Abstract\UiControl.cs" />
+    <Compile Include="GameBushFire.cs" />
+    <Compile Include="Menu\Containers\Audio.cs" />
+    <Compile Include="Menu\Containers\Controls.cs" />
+    <Compile Include="Menu\Containers\DebugThing.cs" />
+    <Compile Include="Menu\Containers\MenuBar.cs" />
+    <Compile Include="Menu\Containers\NewGame.cs" />
+    <Compile Include="Menu\Containers\Video.cs" />
+    <Compile Include="Menu\Screens\MenuMain.cs" />
+    <Compile Include="MapGeneration\Screens\CreatingWorld.cs" />
+    <Compile Include="Notes.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

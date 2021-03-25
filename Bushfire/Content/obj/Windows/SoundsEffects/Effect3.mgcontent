@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/SoundsEffects/Effect3.wav</SourceFile>
+  <SourceTime>2020-03-06T19:37:52+08:00</SourceTime>
+  <DestFile>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/bin/Windows/SoundsEffects/Effect3.xnb</DestFile>
+  <DestTime>2021-02-19T20:07:57.9924346+08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-09T00:35:54+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-09T00:35:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/Effects/Effect1.fx</SourceFile>
+  <SourceTime>2020-04-20T11:00:03.4400455+08:00</SourceTime>
+  <DestFile>E:/Users/Dropbox/Dropbox/Work Sync/Programming Source Code/BushFire/Bushfire/Content/bin/Windows/Effects/Effect1.xnb</DestFile>
+  <DestTime>2020-04-20T12:18:56.2833128+08:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-09T00:35:54+08:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-09T00:35:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Defines</Key>
+    <Value />
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

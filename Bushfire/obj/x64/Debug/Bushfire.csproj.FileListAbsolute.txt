@@ -1,0 +1,642 @@
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Background.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Buttons.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\TextureColours.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\Game\Test.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect2.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect3.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Shot1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Siren1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample1.wma
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample2.wma
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample2.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Effects\Effect1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowDiagonal.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowHorizontal.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowVertical.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\HandClose.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\HandFinger.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\Pointer.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\BushFire.exe
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\MonoGame.Framework.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XAudio2.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.DXGI.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XInput.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\MonoGame.Framework.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XAudio2.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.DXGI.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XInput.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\Bushfire.csproj.CoreCompileInputs.cache
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\Bushfire.csproj.CopyComplete
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\BushFire.exe
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\Bushfire.csprojAssemblyReference.cache
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\Game\Ground.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\Game\Test.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowDiagonal.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowHorizontal.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowVertical.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\HandClose.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\HandFinger.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\Pointer.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Effects\Effect1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita10.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita12.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita14.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita16.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita18.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita20.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita22.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita24.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita26.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita28.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita30.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita6.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita8.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne10.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne12.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne14.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne16.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne18.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne20.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne22.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne24.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne26.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne28.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne30.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne6.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne8.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans10.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans12.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans14.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans26.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans28.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans30.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans6.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans8.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample1.wma
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample2.wma
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample2.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect2.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect3.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Shot1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Siren1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\Game\Ground.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Background.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Buttons.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\TextureColours.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\BushFire.exe
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\BushFire.pdb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\MonoGame.Framework.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.DXGI.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XInput.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\MonoGame.Framework.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.DXGI.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XInput.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\Bushfire.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\BushFire.exe
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\obj\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Loading.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans40Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans40Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Loading.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\Game\Test.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Background.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Buttons.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\Loading.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\UI\TextureColours.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\Anita8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans40Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Textures\Game\Ground.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Effects\Effect1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect2.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect3.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Shot1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\SoundsEffects\Siren1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample1.wma
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample2.wma
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Music\Sample2.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowDiagonal.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowHorizontal.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\ArrowVertical.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\HandClose.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\HandFinger.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\Content\Cursors\Pointer.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\BushFire.exe
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\MonoGame.Framework.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XAudio2.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.DXGI.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XInput.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\MonoGame.Framework.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XAudio2.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.DXGI.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\bin\x64\Debug\SharpDX.XInput.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\obj\x64\Debug\Bushfire.csprojAssemblyReference.cache
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\obj\x64\Debug\Bushfire.csproj.CoreCompileInputs.cache
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\obj\x64\Debug\Bushfire.csproj.CopyComplete
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\obj\x64\Debug\BushFire.exe
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\City\Bushfire\obj\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\Bushfire.csproj.CoreCompileInputs.cache
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\BushFire.exe
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Background.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Buttons.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Loading.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\TextureColours.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Ground.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans10.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans12.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans14.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans26.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans28.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans30.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans40Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans6.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans8.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect2.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect3.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Shot1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Siren1.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowDiagonal.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowHorizontal.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowVertical.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandClose.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandFinger.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\Pointer.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\BushFire.exe
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.dll
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.xml
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\Bushfire.csproj.CopyComplete
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Editor.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowDiagonal.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowHorizontal.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowVertical.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandClose.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandFinger.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\Pointer.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita10.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita12.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita14.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita16.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita18.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita20.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita22.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita24.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita26.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita28.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita30.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita6.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita8.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne10.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne12.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne14.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne16.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne18.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne20.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne22.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne24.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne26.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne28.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne30.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne6.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne8.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans10.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans12.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans14.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans26.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans28.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans30.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans40Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans6.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans8.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect2.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect3.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Shot1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Siren1.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Ground.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Background.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Buttons.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Editor.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Loading.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\TextureColours.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\BushFire.exe
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\BushFire.pdb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.dll
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.xml
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\BushFire.exe
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Shadows.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Shadows.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Lights.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Lights.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\MapObjects.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\MapObjects.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\ShadowInverter.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\ShadowInverter.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\blur.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowDiagonal.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowHorizontal.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowVertical.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandClose.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandFinger.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\Pointer.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Effects\blur.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Effects\LightingAndShadow.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Effects\LightingOnly.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Effects\ShadowInverter.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Effects\ShadowOnly.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita10.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita12.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita14.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita16.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita18.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita20.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita22.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita24.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita26.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita28.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita30.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita6.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita8.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne10.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne12.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne14.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne16.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne18.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne20.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne22.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne24.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne26.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne28.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne30.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne6.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne8.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans10.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans12.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans14.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18Bold.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20Bold.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22Bold.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24Bold.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans26.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans28.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans30.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans40Bold.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans6.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans8.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect1.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect2.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect3.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Shot1.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Siren1.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Ground.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Lights.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\MapObjects.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Shadows.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Time.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Background.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Buttons.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Editor.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Loading.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\TextureColours.xnb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\BushFire.exe
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\BushFire.pdb
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.dll
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.xml
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.xml
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.xml
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.xml
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.xml
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.xml
+C:\Intel\Backup\3\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.xml
+C:\Intel\Backup\3\BushFire\Bushfire\obj\x64\Debug\Bushfire.csprojResolveAssemblyReference.cache
+C:\Intel\Backup\3\BushFire\Bushfire\obj\x64\Debug\BushFire.exe
+C:\Intel\Backup\3\BushFire\Bushfire\obj\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne13.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne13.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Vehicles.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Vehicles.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowDiagonal.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowHorizontal.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\ArrowVertical.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandClose.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\HandFinger.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Cursors\Pointer.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Effects\blur.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Effects\LightingAndShadow.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Effects\LightingOnly.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Effects\ShadowInverter.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Effects\ShadowOnly.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita10.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita12.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita14.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita16.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita18.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita20.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita22.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita24.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita26.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita28.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita30.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita6.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\Anita8.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne10.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne12.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne13.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne14.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne16.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne18.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne20.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne22.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne24.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne26.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne28.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne30.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne6.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\CarterOne8.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans10.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans12.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans14.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans18Bold.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans20Bold.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans22Bold.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans24Bold.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans26.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans28.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans30.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans40Bold.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans6.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans8.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect1.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect2.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Effect3.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Shot1.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\SoundsEffects\Siren1.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Ground.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Lights.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\MapObjects.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Shadows.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Vehicles.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Background.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Buttons.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Editor.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\Loading.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\Content\Textures\UI\TextureColours.xnb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\BushFire.exe
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\BushFire.pdb
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.dll
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\MonoGame.Framework.xml
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.MediaFoundation.xml
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.xml
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.XAudio2.xml
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.DXGI.xml
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.Direct2D1.xml
+C:\Intel\Backup\7\BushFire\Bushfire\bin\x64\Debug\SharpDX.XInput.xml
+C:\Intel\Backup\7\BushFire\Bushfire\obj\x64\Debug\Bushfire.csprojResolveAssemblyReference.cache
+C:\Intel\Backup\7\BushFire\Bushfire\obj\x64\Debug\BushFire.exe
+C:\Intel\Backup\7\BushFire\Bushfire\obj\x64\Debug\BushFire.pdb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\WorldUI.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\WorldUI.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans38.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans38.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\Bushfire.csprojAssemblyReference.cache
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\obj\x64\Debug\Bushfire.csprojResolveAssemblyReference.cache
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16Bold.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Fonts\OpenSans16Bold.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\blur.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Particles.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Textures\Game\Particles.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\soften.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\Lighting.xnb
+E:\Users\Dropbox\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\Shadow.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\Lighting.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\Shadow.xnb
+C:\Users\user\Dropbox\Work Sync\Programming Source Code\BushFire\Bushfire\bin\x64\Debug\Content\Effects\soften.xnb
